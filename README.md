@@ -1,4 +1,4 @@
-<div align="center">
+
 ### 🛡️ Here, I forge solutions and explore the vast landscapes of technology. 🛡️
 
 ### Current Projects 🛠️ :
