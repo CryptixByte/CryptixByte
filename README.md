@@ -1,4 +1,4 @@
-
+<div align="center">
 ### 🛡️ Here, I forge solutions and explore the vast landscapes of technology. 🛡️
 
 ### Current Projects 🛠️ :
@@ -14,7 +14,7 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit, or Kin. I am a
 ### Contact 📜 :
 Currently you can connect with me via GitHub
 
-<div align="center">
+
 
 ### Programming Languages ⚔️ :
 | C++ | C | Assembly | Python | JS | LUA |
