@@ -17,12 +17,14 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit, or Kin. I am a
 - LogInsight ~ A cplusplus log file analyzer
 
 <div align="center">
+
 ### Programming Languages ⚔️ :
 | C++ | C | Assembly | Python | JS | LUA |
 |----------|----------|----------|-----|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> |  <img src="https://github.com/user-attachments/assets/af9c3cd3-b956-41d5-92bd-d1a134d79de6" title="Assembly" alt="Assembly" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="LUA" alt="LUA" width="55" height="55"/> |
 
 </div>
+
 
 ### Contact 📜 :
 Currently you can connect with me via GitHub
