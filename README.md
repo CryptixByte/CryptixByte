@@ -1,4 +1,5 @@
 <div align="center">
+  
 ### Hello, I'm 👋 CryptixByte
 
 ### 🛡️ Here, I forge solutions and explore the vast landscapes of technology. 🛡️
@@ -15,6 +16,7 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit, or Kin. I am a
 - Whispers of the Abyss ~ A cplusplus text based RPG
 - LogInsight ~ A cplusplus log file analyzer
 
+<div align="center">
 ### Programming Languages ⚔️ :
 | C++ | C | Assembly | Python | JS | LUA |
 |----------|----------|----------|-----|-----|-----|
