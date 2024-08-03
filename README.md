@@ -1,8 +1,14 @@
 
 ### 🛡️ Step into my realm of code and creativity. Here, I forge solutions and explore the vast landscapes of technology. 🛡️
 
-### About Me: 
+### About Me 🏰 : 
 Hello, I’m Marc S., also known as CryptixByte or Eclipsed Spirit. I am a dedicated college student pursuing an Associate’s degree in Cyber Security. Throughout this journey, my passion for computers has only intensified. In my free time, I enjoy creating programs to challenge myself and develop personal projects for future use. Additionally, I plan to participate in Capture The Flag (CTF) competitions, refine my program GlyphLock for release as a complete Chrome extension, and develop new programs to expand my knowledge and skills.
+
+### Current Projects 🛠️ :
+
+### Programming Languages:
+![image](https://github.com/user-attachments/assets/98154d7f-6e74-4020-aa9b-b7706d6a2b2c)
+
 
 
 
