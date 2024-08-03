@@ -13,13 +13,8 @@ At this current point in time I have zero collaborations and work alone on proje
 
 ### Programming Languages ⚔️ :
 | C++ | C | Assembly | Python | JS | LUA |
-
-![image](https://github.com/user-attachments/assets/2cdaac28-39ce-40dd-a5a5-fdaeb15f8282)
-![image](https://github.com/user-attachments/assets/a2dd8a68-8d6e-4682-bfc7-93e68825e3ad)
-![image](https://github.com/user-attachments/assets/27d9c47a-fa83-4ab9-94ba-85e617be8429)
-![image](https://github.com/user-attachments/assets/82e7b4cd-60cf-4161-bc18-2385d0d59b1c)
-![image](https://github.com/user-attachments/assets/25f2c23e-5465-4916-8442-c58246394a0e)
-![image](https://github.com/user-attachments/assets/f783b793-e218-4b69-87c2-3a18659d13c7)
+|----------|----------|----------|-----|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="Assembly" alt="Assembly" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="LUA" alt="LUA" width="55" height="55"/> |
 
 
 
