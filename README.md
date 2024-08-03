@@ -1,5 +1,5 @@
 
-### 🛡️ Step into my realm of code and creativity. Here, I forge solutions and explore the vast landscapes of technology. 🛡️
+### 🛡️ Here, I forge solutions and explore the vast landscapes of technology. 🛡️
 
 ### Current Projects 🛠️ :
 - Whispers of the Abyss ~ A cplusplus text based RPG
