@@ -7,7 +7,7 @@ Hello, I’m Marc S., also known as CryptixByte or Eclipsed Spirit. I am a dedic
 ### Current Projects 🛠️ :
 
 ### Programming Languages:
-![image](https://github.com/user-attachments/assets/98154d7f-6e74-4020-aa9b-b7706d6a2b2c)
+[![image](https://github.com/user-attachments/assets/98154d7f-6e74-4020-aa9b-b7706d6a2b2c)](https://www.freeiconspng.com/uploads/c--logo-icon-0.png)
 
 
 
