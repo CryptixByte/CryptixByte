@@ -25,6 +25,7 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit, or Kin. I am a
 ### Project Updates & Announcements 📢 :
 - Whispers of the Abyss's File saving function developed
 - Looking for potential collaborators
+- Planning on participating in CTF challenges & Online CTF's
 
 ### Contact 📜 :
 Currently you can connect with me via GitHub
