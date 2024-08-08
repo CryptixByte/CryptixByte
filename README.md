@@ -23,7 +23,7 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit, or Kin. I am a
 - LogInsight ~ A C++ log file analyzer
 
 ### Project Updates & Announcements 📢 :
-- Whispers of the Abyss's File saving function developed
+- Whispers of the Abyss's | Created a system to better track player information for saving games & or loading games
 - Looking for potential collaborators
 - Planning on participating in CTF challenges & Online CTF's
 
