@@ -13,7 +13,7 @@
 
 
 ### About Me 🏰 : 
-Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit, or Kin. I am a dedicated college student pursuing an Associate’s degree in Cyber Security. Throughout this journey, my passion for computers has only intensified. In my free time, I enjoy creating programs to challenge myself and develop personal projects for future use. Additionally, I plan to participate in Capture The Flag (CTF) competitions, refine my program GlyphLock for release as a complete Chrome extension, and develop new programs to expand my knowledge and skills.
+Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit. I am a dedicated college student pursuing an Associate’s degree in Cyber Security. Throughout this journey, my passion for computers has only intensified. In my free time, I enjoy creating programs to challenge myself and develop personal projects for future use. Additionally, I plan to participate in Capture The Flag (CTF) competitions, refine my program GlyphLock for release as a complete Chrome extension, and develop new programs to expand my knowledge and skills.
 
 ### Collaborations 🏹 :
 - At this current point in time I have zero collaborations and work alone on projects, however, I would love to change that!
