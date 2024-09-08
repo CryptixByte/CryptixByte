@@ -19,8 +19,7 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit. I am a dedicat
 - At this current point in time I have zero collaborations and work alone on projects, however, I would love to change that!
 
 ### Current Projects 🛠️ :
-- Whispers of the Abyss ~ A C++ text based RPG
-- LogInsight ~ A C++ log file analyzer
+- IronRune - Runescape Discord Bot
 
 ### Project Updates & Announcements 📢 :
 - Whispers of the Abyss's | Created a system to better track player information for saving games & or loading games
