@@ -24,7 +24,7 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit. I am a dedicat
 ### Project Updates & Announcements 📢 :
 - Whispers of the Abyss's | Created a system to better track player information for saving games & or loading games
 - Looking for potential collaborators
-- Planning on participating in CTF challenges & Online CTF's
+- Planning on participating in CTF challenges & Bounties
 
 ### Contact 📜 :
 Currently you can connect with me via GitHub
