@@ -19,10 +19,11 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit. I am a dedicat
 - At this current point in time I have zero collaborations and work alone on projects, however, I would love to change that!
 
 ### Current Projects 🛠️ :
-- IronRune - Runescape Discord Bot
+- RS3 - Improved Smithing Calculator (Python)
 
 ### Project Updates & Announcements 📢 :
-- Whispers of the Abyss's | Created a system to better track player information for saving games & or loading games
+- Whispers of the Abyss's | Nearly Finished With Skill System
+- Currently I'm still trying to obtain either a throw away computer or a rasberry pi to host the discord bot IronRune, However in the mean time I'm going work on a different project that will contribute to the bot in the future called RS3 - Improved Smithing Calculator ( The Name May Change In The Near Future )
 - Looking for potential collaborators
 - Planning on participating in CTF challenges & Bounties
 
