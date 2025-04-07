@@ -20,6 +20,7 @@ Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit. I am a proud g
 
 ### Current Projects 🛠️ :
 - Learning to mod Project Zomboid
+- Building github.io page
 
 ### Project Updates & Announcements 📢 :
 - Whispers of the Abyss & Iron Rune discontinued due to loss of files (old computer died)
