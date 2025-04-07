@@ -13,17 +13,16 @@
 
 
 ### About Me 🏰 : 
-Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit. I am a dedicated college student pursuing an Associate’s degree in Cyber Security. Throughout this journey, my passion for computers has only intensified. In my free time, I enjoy creating programs to challenge myself and develop personal projects for future use. Additionally, I plan to participate in Capture The Flag (CTF) competitions, refine my program GlyphLock for release as a complete Chrome extension, and develop new programs to expand my knowledge and skills.
+Hello, I’m Marc S., also known as CryptixByte, Eclipsed Spirit. I am a proud graduate with an Associate’s degree in Cyber Security. Throughout my academic journey, my passion for computers grew immensely, and that drive continues to fuel my professional and personal pursuits. In my free time, I enjoy creating programs to challenge myself and work on innovative projects that contribute to my ongoing growth. I’ve participated in Capture The Flag (CTF) competitions, refined my program GlyphLock into a complete Chrome extension, and am continuously developing new programs to expand my knowledge and skills further.
 
 ### Collaborations 🏹 :
 - At this current point in time I have zero collaborations and work alone on projects, however, I would love to change that!
 
 ### Current Projects 🛠️ :
-- RS3 - Improved Smithing Calculator (Python) (Sqlite)
+- Learning to mod Project Zomboid
 
 ### Project Updates & Announcements 📢 :
-- Whispers of the Abyss's | Scrapped Until I get a collaborator
-- IronRune Smithing Calculator - Almost Finished
+- Whispers of the Abyss & Iron Rune discontinued due to loss of files (old computer died)
 - Looking for potential collaborators
 - Planning on participating in CTF challenges & Bounties
 
